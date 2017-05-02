@@ -1,0 +1,22 @@
+{
+	"name": "BeAllMySinsRemembered",
+	"version": "0.0.1",
+	"main": "inherit.js",
+	"devDependencies": {
+		"eslint": "^3.19.0"
+	}
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/koalixCZ/BeAllMySinsRemembered.git"
+	},
+	"keywords": [
+		"javascript",
+		"inheritance"
+	],
+	"author": "koalix",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/koalixCZ/BeAllMySinsRemembered/issues/"
+	},
+	"scripts": {}
+}
