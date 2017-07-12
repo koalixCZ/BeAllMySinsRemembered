@@ -4,7 +4,7 @@
 	"main": "inherit.js",
 	"devDependencies": {
 		"eslint": "^3.19.0"
-	}
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/koalixCZ/BeAllMySinsRemembered.git"
